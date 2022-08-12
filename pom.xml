@@ -4,7 +4,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.acme</groupId>
-  <artifactId>code-with-quarkus</artifactId>
+  <artifactId>quarkus-dev-consumer</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <description>Java 11 project using Maven, JUnit 5.x, Quarkus for Consumer</description>
   <url>https://github.com/jimboowens/quarkus-dev-consumer</url>
@@ -15,7 +15,7 @@
   </scm>
   <organization>
     <name>jimboowens</name>
-    <url>https://github.com/{name}/quarkus-dev-consumer</url>
+    <url>{url}</url>
   </organization>
   <issueManagement>
     <system>Issues</system>
