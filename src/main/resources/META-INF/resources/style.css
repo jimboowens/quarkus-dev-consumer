@@ -87,11 +87,6 @@ a:active {
     grid-column: span 12;
 }
 
-#quarkus-logo-svg {
-    width: 200px;
-    height: 30px;
-    padding-top: 1rem;
-}
 
 .banner {
     grid-column: span 12;
